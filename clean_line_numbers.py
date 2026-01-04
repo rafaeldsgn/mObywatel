@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: EUPL-1.2
+# SPDX-FileCopyrightText: 2025-2026 Damian Fajfer <damian@fajfer.org>
+#
 # AI generated Mon Dec 29 19:13:14 CET 2025 using Claude Sonnet 4.5
 
 """

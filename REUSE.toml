@@ -1,0 +1,30 @@
+version = 1
+SPDX-PackageName = "mObywatel Mobilny"
+SPDX-PackageSupplier = "Organization: Centralny Ośrodek Informatyki"
+SPDX-PackageDownloadLocation = "https://www.mobywatel.gov.pl/kod-zrodlowy-mobywatel-mobilny"
+
+[[annotations]]
+path = ["Android/**", "iOS/**"]
+precedence = "closest"
+SPDX-FileCopyrightText = "2025 Centralny Ośrodek Informatyki"
+SPDX-License-Identifier = "LicenseRef-COI-MIT-PL"
+
+[[annotations]]
+path = ["rmackiewicz-mit.jpg"]
+precedence = "closest"
+SPDX-FileCopyrightText = "2025 Damian Fajfer <damian@fajfer.org>"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+
+# [[annotations]]
+# path = ["2025/**.pdf"]
+# precedence = "aggregate"
+# SPDX-FileCopyrightText = [
+#   "2025 Warszawski Hackerspace <https://hackerspace.pl>",
+#   "2014 Matthew Allen, LianTze Lim"
+# ]
+# SPDX-License-Identifier = [
+#   "CC0-1.0",      # This file
+#   "CC-BY-SA-4.0", # Content files: text, images, etc.
+#   "LPPL-1.3c"      # Template and LaTeX style/class files
+# ]

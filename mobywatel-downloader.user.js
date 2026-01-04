@@ -1,9 +1,12 @@
+// SPDX-License-Identifier: EUPL-1.2
+// SPDX-FileCopyrightText: 2025 Damian Fajfer <damian@fajfer.org>
 // ==UserScript==
 // @name         mObywatel Code Gallery Downloader
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Download source code files from mObywatel code gallery
-// @author       You
+// @author       Damian Fajfer
+// @license      EUPL-1.2
 // @match        https://mobywatel.gov.pl/*
 // @match        https://www.mobywatel.gov.pl/*
 // @grant        GM_download

@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: EUPL-1.2
+SPDX-FileCopyrightText: 2025-2026 Damian Fajfer <damian@fajfer.org>
+-->
 # mObywatel mobilny
 **🇬🇧English version [HERE](README-en.md)**
 
